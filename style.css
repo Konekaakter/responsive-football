@@ -9,7 +9,7 @@ body{
     height:677px;
     background-color: #2D25A0;
     display: flex;
-    align-items: center;
+    justify-content:space-evenly;
     margin: 0%;
 }
 .top-section{
@@ -37,8 +37,7 @@ body{
 .top-banner img{
     width:556.01px;
     height: 438px;
-    margin-top: 135px;
-    margin-left: 102px;
+    margin-top: 153px;
 
 }
 .top-banner:hover img{
