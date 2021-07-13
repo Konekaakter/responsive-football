@@ -1,7 +1,7 @@
 /* CSS styles start for responsive football */
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0%;
+    margin: 0;
 }
 /* First and top section styles start */
 .top-container{
@@ -10,12 +10,11 @@ body{
     background-color: #2D25A0;
     display: flex;
     justify-content:space-evenly;
-    margin: 0%;
 }
 .top-section{
     padding-left: 156px;
-    margin-top: 207px;
-    margin-bottom: 155px;
+    margin-top: 154px;
+    margin-bottom: 240px;
 
 }
 .top-title{
@@ -41,8 +40,8 @@ body{
 
 }
 .top-banner:hover img{
-    transform: scale(1.2);
-    transition:transform 1s ease-in-out;
+    transform: scale(1.1);
+    transition:transform 0.6s ease-in-out;
 }
 /* first and top section styles end */
 
