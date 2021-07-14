@@ -9,7 +9,7 @@ body{
     height:677px;
     background-color: #2D25A0;
     display: flex;
-    justify-content:space-evenly;
+    justify-content:center;
 }
 .top-section{
     margin-top: 154px;
@@ -36,6 +36,7 @@ body{
     width:556.01px;
     height: 438px;
     margin-top: 153px;
+    margin-left: 102PX;
 
 }
 .top-banner:hover img{
@@ -89,22 +90,27 @@ body{
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
  }
 
  .footer-logo{
-    width: 262.1px;
+    width:483.87px;
     height: 110px;
  }
  .footer-icon{
             justify-content: center;
  }
- .footer-icon i{
-    background-color: #969BAB;
-    height: 32px;
-    width: 32px;
-    border-radius: 20px;
- }
+ 
+ 
+.icon-size{
+   background-color: lightgray;
+   height: 32px;
+   width: 32px;
+   padding: 4px;
+   border-radius: 50%;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 32px;
+}
  footer p{
      font-weight: 400;
      font-size: 18px;
