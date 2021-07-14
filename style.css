@@ -219,6 +219,15 @@ hr{
 /* media quary for mobile */
 
 @media only screen and (max-width:688px) {
+    
+    .top-title{
+        width: 278px;
+        height: 138px;
+        font-size: 36px;
+        font-weight: 700;
+        color:#FFFFFF;
+        line-height: 50px; 
+    }
     .top-container{
         height: 100%;
         width: 100%;
@@ -232,6 +241,10 @@ hr{
     .top-banner{
         margin-top: 0;
         margin-bottom: 61px;
+    }
+    .top-banner img{
+        width:329px;
+        height: 260px;
     }
     .top-banner:hover img{
         transform: scale(1.1);
