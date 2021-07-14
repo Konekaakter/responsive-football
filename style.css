@@ -265,6 +265,12 @@ hr{
      .news{
          padding: 20px 10px;
      }
+     .sponser{
+         width: 100%;
+     }
+     .footer{
+         width: 100%;
+     }
  }
 
  /* CSS style end */
