@@ -268,8 +268,25 @@ hr{
      .sponser{
          width: 100%;
      }
+     .tlc-button{
+         font-size: 20px;
+
+     }
+     .kwai-button{
+         font-size: 20px;
+     }
+     .betsson-button{
+         font-size: 20px;
+     }
+     .sinovac-title{
+         font-size: 20px;
+     }
      .footer{
          width: 100%;
+     }
+     .footer-logo{
+        width:300px;
+        height: 80px; 
      }
  }
 
